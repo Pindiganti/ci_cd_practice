@@ -1,1 +1,2 @@
 Adding sample file
+Checking for branch option
