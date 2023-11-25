@@ -9,4 +9,4 @@ adding reviewers
 
 avg_val function changes
 
-try creating new branch and merge it to main branch
+try creating new branch and merge it to main branc
