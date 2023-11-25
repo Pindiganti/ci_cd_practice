@@ -6,3 +6,5 @@ creating new branch
 
 
 adding reviewers
+
+Adding sum function
